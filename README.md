@@ -1,4 +1,5 @@
 # Контрольная работа №2 — Bootstrap Shop
+**Ссылка на сайт:** [Посмотреть работающий сайт](https://violetta11383829.github.io/kr2-bootstrap-shop/)
 
 **Тема:** CSS-фреймворки: разработка интерфейса на Bootstrap.
 
